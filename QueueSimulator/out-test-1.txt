@@ -1,0 +1,307 @@
+Time 0
+Waiting clients: [(4 6 27), (3 9 27), (2 17 5), (1 25 2)]
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 1
+Waiting clients: [(4 6 27), (3 9 27), (2 17 5), (1 25 2)]
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 2
+Waiting clients: [(4 6 27), (3 9 27), (2 17 5), (1 25 2)]
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 3
+Waiting clients: [(4 6 27), (3 9 27), (2 17 5), (1 25 2)]
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 4
+Waiting clients: [(4 6 27), (3 9 27), (2 17 5), (1 25 2)]
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 5
+Waiting clients: [(4 6 27), (3 9 27), (2 17 5), (1 25 2)]
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 6
+Waiting clients: [(3 9 27), (2 17 5), (1 25 2)]
+1:(4 6 27)  cu waiting time:27
+2:closed cu waiting time:0
+
+Time 7
+Waiting clients: [(3 9 27), (2 17 5), (1 25 2)]
+1:(4 6 26)  cu waiting time:26
+2:closed cu waiting time:0
+
+Time 8
+Waiting clients: [(3 9 27), (2 17 5), (1 25 2)]
+1:(4 6 25)  cu waiting time:25
+2:closed cu waiting time:0
+
+Time 9
+Waiting clients: [(2 17 5), (1 25 2)]
+1:(4 6 24)  cu waiting time:24
+2:(3 9 28)  cu waiting time:28
+
+Time 10
+Waiting clients: [(2 17 5), (1 25 2)]
+1:(4 6 23)  cu waiting time:23
+2:(3 9 26)  cu waiting time:26
+
+Time 11
+Waiting clients: [(2 17 5), (1 25 2)]
+1:(4 6 22)  cu waiting time:22
+2:(3 9 25)  cu waiting time:25
+
+Time 12
+Waiting clients: [(2 17 5), (1 25 2)]
+1:(4 6 21)  cu waiting time:21
+2:(3 9 24)  cu waiting time:24
+
+Time 13
+Waiting clients: [(2 17 5), (1 25 2)]
+1:(4 6 20)  cu waiting time:20
+2:(3 9 23)  cu waiting time:23
+
+Time 14
+Waiting clients: [(2 17 5), (1 25 2)]
+1:(4 6 19)  cu waiting time:19
+2:(3 9 22)  cu waiting time:22
+
+Time 15
+Waiting clients: [(2 17 5), (1 25 2)]
+1:(4 6 18)  cu waiting time:18
+2:(3 9 21)  cu waiting time:21
+
+Time 16
+Waiting clients: [(2 17 5), (1 25 2)]
+1:(4 6 17)  cu waiting time:17
+2:(3 9 20)  cu waiting time:20
+
+Time 17
+Waiting clients: [(1 25 2)]
+1:(4 6 16) (2 17 5)  cu waiting time:21
+2:(3 9 19)  cu waiting time:19
+
+Time 18
+Waiting clients: [(1 25 2)]
+1:(4 6 15) (2 17 5)  cu waiting time:20
+2:(3 9 18)  cu waiting time:18
+
+Time 19
+Waiting clients: [(1 25 2)]
+1:(4 6 14) (2 17 5)  cu waiting time:19
+2:(3 9 17)  cu waiting time:17
+
+Time 20
+Waiting clients: [(1 25 2)]
+1:(4 6 13) (2 17 5)  cu waiting time:18
+2:(3 9 16)  cu waiting time:16
+
+Time 21
+Waiting clients: [(1 25 2)]
+1:(4 6 12) (2 17 5)  cu waiting time:17
+2:(3 9 15)  cu waiting time:15
+
+Time 22
+Waiting clients: [(1 25 2)]
+1:(4 6 11) (2 17 5)  cu waiting time:16
+2:(3 9 14)  cu waiting time:14
+
+Time 23
+Waiting clients: [(1 25 2)]
+1:(4 6 10) (2 17 5)  cu waiting time:15
+2:(3 9 13)  cu waiting time:13
+
+Time 24
+Waiting clients: [(1 25 2)]
+1:(4 6 9) (2 17 5)  cu waiting time:14
+2:(3 9 12)  cu waiting time:12
+
+Time 25
+Waiting clients: []
+1:(4 6 8) (2 17 5)  cu waiting time:13
+2:(3 9 11) (1 25 2)  cu waiting time:13
+
+Time 26
+Waiting clients: []
+1:(4 6 7) (2 17 5)  cu waiting time:12
+2:(3 9 10) (1 25 2)  cu waiting time:12
+
+Time 27
+Waiting clients: []
+1:(4 6 6) (2 17 5)  cu waiting time:11
+2:(3 9 9) (1 25 2)  cu waiting time:11
+
+Time 28
+Waiting clients: []
+1:(4 6 5) (2 17 5)  cu waiting time:10
+2:(3 9 8) (1 25 2)  cu waiting time:10
+
+Time 29
+Waiting clients: []
+1:(4 6 4) (2 17 5)  cu waiting time:9
+2:(3 9 7) (1 25 2)  cu waiting time:9
+
+Time 30
+Waiting clients: []
+1:(4 6 3) (2 17 5)  cu waiting time:8
+2:(3 9 6) (1 25 2)  cu waiting time:8
+
+Time 31
+Waiting clients: []
+1:(4 6 2) (2 17 5)  cu waiting time:7
+2:(3 9 5) (1 25 2)  cu waiting time:7
+
+Time 32
+Waiting clients: []
+1:(4 6 1) (2 17 5)  cu waiting time:6
+2:(3 9 4) (1 25 2)  cu waiting time:6
+
+Time 33
+Waiting clients: []
+1:(2 17 5)  cu waiting time:5
+2:(3 9 3) (1 25 2)  cu waiting time:5
+
+Time 34
+Waiting clients: []
+1:(2 17 4)  cu waiting time:4
+2:(3 9 2) (1 25 2)  cu waiting time:4
+
+Time 35
+Waiting clients: []
+1:(2 17 3)  cu waiting time:3
+2:(3 9 1) (1 25 2)  cu waiting time:3
+
+Time 36
+Waiting clients: []
+1:(2 17 2)  cu waiting time:2
+2:(1 25 2)  cu waiting time:2
+
+Time 37
+Waiting clients: []
+1:(2 17 1)  cu waiting time:1
+2:(1 25 1)  cu waiting time:1
+
+Time 38
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 39
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 40
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 41
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 42
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 43
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 44
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 45
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 46
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 47
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 48
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 49
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 50
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 51
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 52
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 53
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 54
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 55
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 56
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 57
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 58
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 59
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+Time 60
+Waiting clients: []
+1:closed cu waiting time:0
+2:closed cu waiting time:0
+
+
+Averange time: 21.5
